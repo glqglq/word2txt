@@ -1,0 +1,8 @@
+功能：将某文件夹下所有的word文档（doc或docx）转换为txt文件。
+
+在word2txt文件夹下，执行：
+java -jar conversion.jar word文件所在文件夹 txt文件所在文件夹（文件夹要已建好）。
+
+
+如：
+java -jar conversion.jar C:\Users\LuckyGong\Documents\GitHub\knowledgegraph-project\data\ C:\Users\LuckyGong\Documents\GitHub\knowledgegraph-project\data\txt\
